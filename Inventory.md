@@ -1,0 +1,2 @@
+Inventory Log
+Laptop - Available
